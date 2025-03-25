@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction
 
-<img src="https://images8.alphacoders.com/405/405029.jpg">
+<img src="[https://images8.alphacoders.com/405/405029.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstringsmagazine.com%2Fthe-spirit-of-the-rms-titanic-and-the-band-played-on%2F&psig=AOvVaw1dkQtjQ432Jy4_9dTv7Wbb&ust=1743026209178000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjQx-acpowDFQAAAAAdAAAAABAJ)">
 
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
                                                                     
